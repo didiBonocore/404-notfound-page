@@ -117,7 +117,7 @@ span {
     width: 350px;
     height: 142px;
     left: 24px;
-    top: 390px;
+    top: 350px;
     font-family: "Space Mono", monospace;
     font-style: normal;
     font-weight: bold;
@@ -129,7 +129,8 @@ span {
 
   p {
     position: absolute;
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     width: 328px;
     height: 81px;
     left: 23px;
@@ -162,7 +163,7 @@ span {
     position: absolute;
     width: 400px;
     height: 17px;
-    left: 30px;
+    left: 40px;
     top: 890px;
     font-family: "Montserrat", sans-serif;
     font-style: normal;
