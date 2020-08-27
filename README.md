@@ -12,6 +12,6 @@ The steps taken were the following:
 - Push the code to GitHub
 - Deploy the website with Netlify.
 
-**Here's the link if you want to take a look:** [404 Not Found](https://admiring-kepler-14e80e.netlify.app/)
+**Here's the link if you want to take a look:** [404 Not Found](https://404-eugenia-bonocore.netlify.app/)
 
 ##### Feel free to browse and share your thoughts. This was my very first DevChallenges.io challenge!
